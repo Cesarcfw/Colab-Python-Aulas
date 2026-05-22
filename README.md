@@ -1,1 +1,2 @@
-Repositorio com codigos do colab usando linguagem python
+## Python
+Repositorio com codigos do colab usando a linguagem python voltados para aula.
